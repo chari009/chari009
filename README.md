@@ -1,13 +1,8 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                          📊 DATA ENGINEER                                   ║
-║                       Sai Sakalam                                           ║
-║                                                                              ║
-║            Designing Scalable Data Systems & Modern Architectures          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 DATA ENGINEER | Sai Sakalam 🚀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Designing Scalable Data Systems & Modern Architectures
 
 <div align="center">
 
@@ -31,16 +26,50 @@ I'm **Sai**, a passionate data engineer specializing in designing clean, scalabl
 
 ---
 
-## 💼 Core Expertise
+## 💼 Professional Focus
 
-| | |
-|---|---|
-| **☁️ Cloud Data Platforms**<br/>🔹 Snowflake — Data warehouse design & optimization<br/>🔹 AWS — S3, Lambda, Glue, RDS, Redshift<br/>🔹 Cloud-Native Architectures — Scalability & resilience | **📊 Data Engineering**<br/>🔹 Data Pipelines — ETL/ELT workflows<br/>🔹 Data Transformation — dbt, SQL, Python<br/>🔹 Real-time Processing — Streaming & event-driven |
-| **🔧 Modern Data Stack**<br/>🔹 dbt — Advanced transformation & macro dev<br/>🔹 Orchestration — Airflow, dbt Cloud<br/>🔹 Infrastructure as Code — Terraform, CloudFormation | **📈 Data Quality & Governance**<br/>🔹 Data Quality Frameworks — Testing & validation<br/>🔹 Performance Tuning — Query optimization<br/>🔹 Data Governance — Lineage & metadata |
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Data Platforms
+- **Snowflake** — Data warehouse design & optimization
+- **AWS** — S3, Lambda, Glue, RDS, Redshift
+- **Cloud-Native Architectures** — Scalability & resilience
+
+</td>
+<td width="50%">
+
+### 📊 Data Engineering
+- **Data Pipelines** — ETL/ELT workflows
+- **Data Transformation** — dbt, SQL, Python
+- **Real-time Processing** — Streaming & event-driven architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 Modern Data Stack
+- **dbt** — Data transformation best practices
+- **Orchestration** — Airflow, dbt Cloud
+- **Infrastructure as Code** — Terraform, CloudFormation
+
+</td>
+<td width="50%">
+
+### 📈 Data Quality & Analytics
+- **Data Quality Frameworks** — Testing & validation
+- **Performance Tuning** — Query optimization
+- **Data Governance** — Lineage & documentation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Expertise
 
 **Languages & Frameworks**
 
@@ -49,7 +78,7 @@ I'm **Sai**, a passionate data engineer specializing in designing clean, scalabl
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-**Data & Cloud Platforms**
+**Data Platforms & Tools**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt&logoColor=white)
@@ -65,80 +94,47 @@ I'm **Sai**, a passionate data engineer specializing in designing clean, scalabl
 
 ---
 
-## 📈 Skills & Proficiency
+## 📊 Core Competencies
 
-<table>
-<tr>
-<td>
-
-**Data Architecture & Design**
-```
-████████████░░ 85%
-```
-
-**SQL & Advanced Transformation**
-```
-█████████████░ 90%
-```
-
-**Cloud Platforms**
-```
-████████████░░ 85%
-```
-
-</td>
-<td>
-
-**Data Quality & Validation**
-```
-████████████░░ 85%
-```
-
-**Problem Solving**
-```
-█████████████░ 90%
-```
-
-**Pipeline Orchestration**
-```
-███████████░░░ 80%
-```
-
-</td>
-</tr>
-</table>
+| Skill | Growth Journey |
+|-------|-----------------|
+| **Data Architecture & Design** | 🌱 Continuously evolving |
+| **SQL & Advanced Transformation** | 🌱 Continuously evolving |
+| **Cloud Platforms (AWS, Snowflake)** | 🌱 Continuously evolving |
+| **Data Quality & Validation** | 🌱 Continuously evolving |
+| **Problem Solving & Optimization** | 🌱 Continuously evolving |
+| **Pipeline Orchestration** | 🌱 Continuously evolving |
+| **Infrastructure & DevOps** | 🌱 Continuously evolving |
 
 ---
 
 ## 🚀 Currently Exploring
 
-> 🏗️ **Advanced data architecture patterns** — Data mesh, lake house patterns  
-> 📊 **Complex dbt workflows** — Macro development, staging patterns  
-> ☁️ **Serverless data processing** — Event-driven architectures  
-> 🤖 **AI/ML in data engineering** — LLMs for data automation  
-> 💡 **Data mesh & decentralization** — Federated governance  
-> 🔍 **Data observability** — Monitoring & alerting frameworks  
-> ⚡ **Performance at scale** — Distributed systems optimization  
+- 🏗️ Advanced data architecture patterns
+- 📊 Complex dbt workflows & macro development
+- ☁️ Serverless data processing solutions
+- 🤖 AI/ML applications in data engineering
+- 💡 Data mesh & decentralized data architectures
+- 🔍 Data observability & monitoring
+- ⚡ Performance optimization & scalability
 
 ---
 
-## 🎓 Learning Roadmap
+## 🎓 Continuous Learning
 
-Staying ahead of the curve through continuous exploration:
-
-- 📚 **Advanced analytics engineering patterns**
-- 🔬 **Cloud-native distributed systems design**
-- 🤖 **AI applications for data automation**
-- 🏛️ **Enterprise data platform architectures**
-- 🔐 **Data security & compliance frameworks**
+I'm passionate about staying at the cutting edge of data engineering. Currently diving deep into:
+- Advanced analytics engineering patterns
+- Cloud-native distributed systems
+- AI applications for data automation
+- Data platform design & best practices
 
 ---
 
-## 📍 Connect With Me
+## 📍 Let's Connect
 
 <div align="center">
 
-**Let's collaborate and build amazing data systems together:**
+**Explore my work and connect with me on:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sakalam/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chari009)
@@ -150,9 +146,8 @@ Staying ahead of the curve through continuous exploration:
 
 <div align="center">
 
-### 💪 *Always Building. Always Learning. Always Optimizing.*
+### 💪 *Always building. Always learning. Always optimizing.*
 
 *Last updated: June 2026*
 
 </div>
-```
