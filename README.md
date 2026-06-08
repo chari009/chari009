@@ -65,17 +65,48 @@ I'm **Sai**, a passionate data engineer specializing in designing clean, scalabl
 
 ---
 
-## 📊 Proficiency Highlights
+## 📈 Skills & Proficiency
 
-| Skill | Level |
-|-------|-------|
-| Data Architecture & Design | ⭐⭐⭐⭐⭐ (85%) |
-| SQL & Advanced Transformation | ⭐⭐⭐⭐⭐ (90%) |
-| Cloud Platforms (AWS, Snowflake) | ⭐⭐⭐⭐⭐ (85%) |
-| Data Quality & Validation | ⭐⭐⭐⭐⭐ (85%) |
-| Problem Solving & Optimization | ⭐⭐⭐⭐⭐ (90%) |
-| Pipeline Orchestration | ⭐⭐⭐⭐☆ (80%) |
-| Infrastructure & DevOps | ⭐⭐⭐⭐☆ (80%) |
+<table>
+<tr>
+<td>
+
+**Data Architecture & Design**
+```
+████████████░░ 85%
+```
+
+**SQL & Advanced Transformation**
+```
+█████████████░ 90%
+```
+
+**Cloud Platforms**
+```
+████████████░░ 85%
+```
+
+</td>
+<td>
+
+**Data Quality & Validation**
+```
+████████████░░ 85%
+```
+
+**Problem Solving**
+```
+█████████████░ 90%
+```
+
+**Pipeline Orchestration**
+```
+███████████░░░ 80%
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
