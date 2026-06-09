@@ -1,6 +1,6 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🚀 DATA ENGINEER | Sai Sakalam 🚀
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Designing Scalable Data Systems & Modern Architectures
 
@@ -10,8 +10,8 @@ Designing Scalable Data Systems & Modern Architectures
 
 **I build reliable data pipelines and architectures that transform raw data into actionable insights**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chari009&color=0891b2&style=flat-square&label=Profile%20Views)](https://github.com/chari009)
-[![GitHub Followers](https://img.shields.io/github/followers/chari009?label=Followers&style=flat-square&logo=github&color=0891b2)](https://github.com/chari009)
+[![Profile Views](https://komarev.com/ghpvc/?username=sai-sakalam&color=0891b2&style=flat-square&label=Profile%20Views)](https://github.com/sai-sakalam)
+[![GitHub Followers](https://img.shields.io/github/followers/sai-sakalam?label=Followers&style=flat-square&logo=github&color=0891b2)](https://github.com/sai-sakalam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sakalam/)
 
 </div>
@@ -20,7 +20,7 @@ Designing Scalable Data Systems & Modern Architectures
 
 ## 🎯 About Me
 
-I'm **Sai**, a passionate data engineer specializing in designing clean, scalable, and maintainable data systems. With deep expertise in cloud-native architectures and modern data stacks, I transform complex data challenges into elegant, efficient solutions.
+I'm **Sai**, a passionate data engineer specializing in designing clean, scalable, and maintainable data systems. With deep expertise in cloud-native architectures and modern data stacks, I transform raw data into powerful insights that drive business decisions.
 
 > *"Good data architecture is invisible—until something breaks. Great data engineering prevents that moment from ever happening."*
 
@@ -137,7 +137,7 @@ I'm passionate about staying at the cutting edge of data engineering. Currently 
 **Explore my work and connect with me on:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sakalam/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chari009)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai-sakalam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
